@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="material_blue_700">#1976D2</color>
+  <color name="material_blue_500">#2196F3</color>
+  <color name="material_red_700">#D50000</color>
+  <color name="material_green_700">#00C853</color>
+
+  <color name="material_dark_700">#1d1d1d</color>
+  <color name="material_dark_800">#131313</color>
+  <color name="material_dark_600">#2d2d2d</color>
+
+  <color name="white">#ffffff</color>
+  <color name="accent">#65E7A7</color>
+
+  <color name="aboutText">#9B9B9B</color>
+</resources>

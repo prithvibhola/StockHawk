@@ -1,0 +1,43 @@
+<resources>
+  <string name="app_name">Stock Hawk</string>
+
+  <string name="action_example">Example action</string>
+
+  <string name="action_about">About</string>
+  <string name="action_settings">Settings</string>
+  <string name="action_change_units">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+
+  <string name="string_tag"  translatable="false">tag</string>
+  <string name="string_add"  translatable="false">add</string>
+  <string name="string_init"  translatable="false">init</string>
+  <string name="string_periodic"  translatable="false">periodic</string>
+  <string name="error_no_symbol">Error! symbol Not found</string>
+  <string name="string_symbol_found">Success! added new Symbol</string>
+  <string name="string_symbol"  translatable="false">symbol</string>
+  <string name="string_set_background_resource" translatable="false">setBackgroundResource</string>
+
+  <!-- Content Descriptions -->
+  <string name="content_description_add_stock" translatable="false">Add a stock item</string>
+
+  <!--JAVA CLASSES-->
+  <!--MyStockActivity.java-->
+  <string name="internet_connection">This app requires an internet connection</string>
+  <string name="stock_already_saved">This stock is already saved!</string>
+  <string name="try_again">Try again</string>
+
+  <!--DetailStockActivity.java-->
+  <string name="five_days">5 Days</string>
+  <string name="two_weeks">2 Weeks</string>
+  <string name="one_month">1 Month</string>
+
+  <string name="description1">Stock Hawk is a project for the Udacity\'s Android Nanodegree course.</string>
+  <string name="description2">Originally written by Sam Chordas, my work is to productionize the app, taking it from a functional state to a production-ready state</string>
+  <string name="developer">This is my version of Stock Hawk.</string>
+  <string name="google">Prithvi Bhola</string>
+  <string name="github">The source code is available on Github</string>
+</resources>
