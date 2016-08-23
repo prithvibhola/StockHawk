@@ -5,3 +5,4 @@ Stock Hawk is a project for the Udacity's Android Nanodegree course. Originally 
 ![alt tag](http://encashhub.com/github/Stock_Hawk_1.png)
 ![alt tag](http://encashhub.com/github/Stock_Hawk_2.png)
 ![alt tag](http://encashhub.com/github/Stock_Hawk_3.png)
+![alt tag](http://encashhub.com/github/Stock_Hawk_4.png)
