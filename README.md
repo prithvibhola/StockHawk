@@ -1,5 +1,9 @@
-## Stock Hawk
+## Popular Movies App
 
-Stock Hawk is a project for the Udacity's Android Nanodegree course. Originally written by Sam Chordas, my work was to productionize the app, taking it from a functional state to a production-ready state.
+Second project for Udacity's Android Developer Nanodegree. The purpose of this project was to built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. Movies launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. Movies fetches movie information using themoviedb.org web API.
 
-![alt tag](http://encashhub.com/github/Stock_Hawk_1.png)
+![alt tag](http://encashhub.com/github/screen11.png)
+![alt tag](http://encashhub.com/github/screen22.png)
+![alt tag](http://encashhub.com/github/screen33.png)
+![alt tag](http://encashhub.com/github/screen44.png)
+![alt tag](http://encashhub.com/github/screen55.png)
